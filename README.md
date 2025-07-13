@@ -32,6 +32,7 @@
 <ins>**Main features :**</ins>
 
 - **1. Click to patch Online or Offline Game**
-- - **1.1 If you choose an online game, select the game from the list**
+- - **1.a If you choose an online game, select the game from the list and select your .exe game file**
+- - **1.b If you choose an offline game, select your game folder**
 - **2. Wait**
 - **3. And Play**
