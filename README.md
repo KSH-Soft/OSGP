@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/KSH-Soft/OSGP/refs/heads/main/Capture.PNG" alt="Main Menu" width="00px">
+<img src="https://raw.githubusercontent.com/KSH-Soft/OSGP/refs/heads/main/Capture.PNG" alt="Main Menu" width="600px">
 
 </p>
 
